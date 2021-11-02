@@ -1,3 +1,5 @@
+// ema john auth 
+
 const firebaseConfig = {
     apiKey: "AIzaSyC22y8dVN9gl8XDsLRxtRfVoCEer3PZJHw",
     authDomain: "ema-john-auth-b5e6a.firebaseapp.com",
